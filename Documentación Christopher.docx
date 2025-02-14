@@ -9,5 +9,14 @@ He copiado el ejercicio 2 y he hecho el ejercicio 3 de las actividades - Framewo
 El node:os es una libreria del propio entorno de ejecucion del node. Y para ejecutar una prueba se debe utilizar el comando node "nombre.js", ademas de tener creado un package.json para declarar el "type: module"
 ya que si se importa de otro lugar, el elemento script tiene un type="module".
 Si no se quiere crear el package.json, se debe crear los ficheros javascript con la terminación .mjs.
+El readFile() y el readFileSync() son lo mismo, pero se utiliza de distinta forma.
+El readFile() te permite tratar los errores desde el mismo, mientras que el otro no.
 - Ej 2
 - Ej 3
+
+14/02/2025
+He utilizado la libreria npm para instalar el paquete chalk, que sirve para cambiar los colores de la terminal, y hacerlo ver mas astetic.
+comando: "npm install chalk";
+He aprendido que para utilizar el readline, se debe crear primero una interface, que contiene la entrada y salida del user. Ademas de que el metodo question(), es de tipo asyncrono por lo que se debe utilizar en el primer question, el resto.
+Ademas he utilizado el chalk, para incluir colorines en los console.log en el Ej.4.3.
+- Ej 4

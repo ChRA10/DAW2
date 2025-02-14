@@ -1,0 +1,4 @@
+Sistema operativo: Windows 10 Pro
+Version SO: x86_64
+Memoria Total: 34013192192MB
+Nª CPUs: 20
