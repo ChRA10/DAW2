@@ -20,3 +20,11 @@ comando: "npm install chalk";
 He aprendido que para utilizar el readline, se debe crear primero una interface, que contiene la entrada y salida del user. Ademas de que el metodo question(), es de tipo asyncrono por lo que se debe utilizar en el primer question, el resto.
 Ademas he utilizado el chalk, para incluir colorines en los console.log en el Ej.4.3.
 - Ej 4
+
+17/02/2025
+Hoy he aprendido lo que es react y sus funciones, he de decir que es secillo de usar una vez que lo entiendes, sin embargo, tal parece que utiliza JSX para trasquilar el codigo de por medio,
+lo cual lo hace mas sencillo de utilizar ya que un elemento puede tener varios elementos hijos por adentro con sus respectivos atribtutos.
+Lo importante es que te ayuda a optimizar y mantener tu codigo limpio.
+
+Se empieza declarando la raiz del contenedor, es decir de donde se va a renderizar el contenido utilizando ReactDom, y a continuacion puedes utilizar el React.createElement(), para crear los elementos que quieras.
+Finalmente utilizas la raiz.render(elementos que deseas ingresar) para añadirlos al html.
