@@ -1,5 +1,3 @@
-const cont = "Mundo";
-
 function saluda(){
     return "Hola Mundo";
 }

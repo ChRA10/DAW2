@@ -28,3 +28,13 @@ Lo importante es que te ayuda a optimizar y mantener tu codigo limpio.
 
 Se empieza declarando la raiz del contenedor, es decir de donde se va a renderizar el contenido utilizando ReactDom, y a continuacion puedes utilizar el React.createElement(), para crear los elementos que quieras.
 Finalmente utilizas la raiz.render(elementos que deseas ingresar) para añadirlos al html.
+const cont = "Mundo";
+
+19/02/2025
+Comando utilizados:
+-npm create vite@latest EjercicioJXS --template react
+-cd .\EjercicioJXS\
+-npm install
+-npm run dev
+
+Es muy util el utilizar el react
